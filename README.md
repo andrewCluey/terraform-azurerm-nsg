@@ -1,6 +1,8 @@
 # terraform-azurerm-nsg
 Create an Azure Network Security group with rules.
 
+Rules can be added, removed and edited by simply editing the 'Security Rules' list (map) parameter. See the exampel below.
+
 
 ## Example use
 ```terraform

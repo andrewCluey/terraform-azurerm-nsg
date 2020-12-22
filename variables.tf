@@ -1,3 +1,4 @@
+
 variable "resource_group_name" {
   description = "description"
   type        = string
